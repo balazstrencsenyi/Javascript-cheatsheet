@@ -4,5 +4,5 @@ function hasNine(arr) {
       return true;
     }
   }
-  else return false
+   return false
 }
